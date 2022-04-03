@@ -1,7 +1,7 @@
 {
     "version": 1,
     "themes": {
-        "theme-name": {
+        "lynch-accounting": {
             "name": "Lynch-Accounting",
             "repo": "https://github.com/smlync/lynch-accounting-theme/tree/master",
             "zip": "https://github.com/smlync/lynch-accounting-theme/archive/master.zip",
