@@ -35,7 +35,7 @@
 		<!-- Theme CSS -->
         <link href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;500;600&display=swap" rel="stylesheet">
 		<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-		<link rel="stylesheet" rel="preload" as="style" href="<?= $Wcms->asset('css/style.css') ?>">
+		<link rel="stylesheet" href="<?= $Wcms->asset('css/style.css') ?>">
 		
 	</head>
 	

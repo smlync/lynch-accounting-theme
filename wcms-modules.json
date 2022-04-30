@@ -6,7 +6,7 @@
             "repo": "https://github.com/smlync/lynch-accounting-theme/tree/master",
             "zip": "https://github.com/smlync/lynch-accounting-theme/archive/master.zip",
             "summary": "Custom theme used by lynchaccounting.com",
-            "version": "1.0.2",
+            "version": "1.0.3",
             "image": "https://raw.githubusercontent.com/smlync/lynch-accounting-theme/master/preview.jpg"
         }
     }
