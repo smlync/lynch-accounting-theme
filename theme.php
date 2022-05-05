@@ -61,10 +61,8 @@
 
 		<main>
 			<div id="wrapper">
-				<section id="intro" class="w3-display-container">
-						<!-- Main content for each page -->
-						<?= $Wcms->page('content') ?>
-				</section>
+				<!-- Main content for each page -->
+				<?= $Wcms->page('content') ?>
 			</div>
 		</main>
 
