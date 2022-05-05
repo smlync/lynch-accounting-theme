@@ -44,6 +44,14 @@
 		<?= $Wcms->settings() ?>
 		<?= $Wcms->alerts() ?>
 
+		<nav class="w3-sidebar w3-bar-block w3-card w3-top w3-xlarge w3-animate-left" style="display:none;z-index:2;width:40%;min-width:300px" id="mobileMenu">
+			<a href="javascript:void(0)" onclick="close_menu()" class="w3-bar-item w3-button">Close Menu</a>
+			<a href="/#about" onclick="close_menu()" class="w3-bar-item w3-button">About</a>
+			<a href="/#services" onclick="close_menu()" class="w3-bar-item w3-button">Services</a>
+			<a href="/blog" onclick="close_menu()" class="w3-bar-item w3-button">Updates</a>
+			<a href="/#contact" onclick="close_menu()" class="w3-bar-item w3-button">Contact us</a>
+		</nav>
+
         <header>
             <div class="w3-bar">
                 <a id="logo-image" href="<?= $Wcms->url() ?>" class="w3-bar-item">
